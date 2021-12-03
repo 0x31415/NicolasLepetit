@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasLepetit&layout=compact)
 
+- 🔭 I’m currently working on Vision Based Navigation systems & Deep learning
+- ⚡ Fun fact: I own more bike than there is day in the week! 
 
 <!--
 **NicolasLepetit/NicolasLepetit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
